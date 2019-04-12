@@ -11,9 +11,9 @@ First level analysis processes the functional images for each subject.
 
 ## The first level analyses are run in two steps.
 
-1. Run `<make_FSL_Timings.sh>` to create the onset timing files (e.g., congruent_run1.txt and incongruent_run1.txt for run 1). That will convert the BIDS format timings to FSL format.>`
+1. Run `make_FSL_Timings.sh` to create the onset timing files (e.g., congruent_run1.txt and incongruent_run1.txt for run 1). That will convert the BIDS format timings to FSL format.>`
 
-2. Run `<run_1stLevel_Analysis.sh>` to run all subjects's first level analysis.>`
+2. Run `run_1stLevel_Analysis.sh` to run all subjects's first level analysis.>`
 
 The Registation of the high resolution to standard image should look something like this.
 
