@@ -17,7 +17,7 @@ First level analysis processes the functional images for each subject.
 
 The Registation of the high resolution to standard image should look something like this.
 
-highres2standard.png should display here
+highres2standard.png should display here:
 ![highres2standard](http://www.duke.edu/~dvs3/highres2standard_FLIRT.png)
 
 If there are substantial red lines outside of the brain, then there may be problems, and you should flag the subject for review.
